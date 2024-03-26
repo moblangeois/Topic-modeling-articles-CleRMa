@@ -15,7 +15,7 @@ https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modelin
 
 https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_after_2013.html
 
-- `visualize_documents_after_2018.html` : Visualisation de tous les documents et clusters après 2013
+- `visualize_documents_after_2018.html` : Visualisation de tous les documents et clusters après 2018
 
 https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_after_2018.html
 
