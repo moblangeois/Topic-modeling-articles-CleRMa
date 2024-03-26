@@ -11,6 +11,14 @@ Les graphiques et visualisations résultants sont générés dans le dossier out
 
 https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_all.html
 
+- `visualize_documents_after_2013.html` : Visualisation de tous les documents et clusters après 2013
+
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_after_2013.html
+
+- `visualize_documents_after_2018.html` : Visualisation de tous les documents et clusters après 2013
+
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_after_2018.html
+
 - `visualize_topics_over_time.html` : Visualisation des topics et clusters au fil du temps
 
 https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_topics_over_time.html
