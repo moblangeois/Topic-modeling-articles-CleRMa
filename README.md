@@ -9,11 +9,11 @@ Les graphiques et visualisations résultants sont générés dans le dossier out
 
 - `visualize_documents_all.html` : Visualisation de tous les documents et clusters
 
-https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-lettres-IRAFPA/blob/main/output/visualize_documents_all.html
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_documents_all.html
 
 - `visualize_topics_over_time.html` : Visualisation des topics et clusters au fil du temps
 
-https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-lettres-IRAFPA/blob/main/output/visualize_topics_over_time.html
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-articles-CleRMa/blob/main/output/visualize_topics_over_time.html
 
 
 ## Dépendances
